@@ -2,14 +2,19 @@
 
 
 body{
-    background-color: rgb(175, 0, 125);
-    color: rgb(79, 255, 135);
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-align: center;
 }
 
 h1 span{
     font-family: "Whisper", cursive;
-    color: greenyellow;
+    color: rgb(128, 0, 255);
+}
+
+.dias{
+    color: red;
+    font-size: xx-large;
 }
 
 #dias_restantes{}

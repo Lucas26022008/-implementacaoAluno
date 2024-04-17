@@ -1,4 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Whisper&display=swap');
+
+
 body{
     background-color: rgb(175, 0, 125);
-    color: ;
+    color: rgb(90, 0, 0);
+    text-align: center;
+}
+
+h1 span{
+    font-family: "Whisper", cursive;
+    color: greenyellow;
+}
+
+#dias_restantes{
+
 }

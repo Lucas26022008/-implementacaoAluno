@@ -1,5 +1,5 @@
 const dataAtual = new Date(); // cria um objeto data que recupera / busca a data atual
-let dataNiver = prompt("2025-02-26"); 
+let dataNiver = prompt("Quando sera seu proximo aniversario ?"); 
 //é uma funcao nativa do js e navegador pra passar msg
 dataNiver = new Date (dataNiver+"T23:59:59"); 
 //mudando o valor para valor de data e indica por si so que os proximos valores são tempo

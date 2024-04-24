@@ -23,7 +23,7 @@ h1 span{
 .principal{
     width: 50%;
     text-align: center;
-    background-color: aliceblue;
+    background-color: rgb(2, 39, 71);
     display: inline-block;
-    padding-top: 600px;
+    padding-top: 50%;
 }

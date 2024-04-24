@@ -24,4 +24,5 @@ h1 span{
     width: 50%;
     text-align: center;
     background-color: aliceblue;
+    display: inline-block;
 }

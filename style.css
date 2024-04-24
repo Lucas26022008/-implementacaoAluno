@@ -18,3 +18,10 @@ h1 span{
 }
 
 #dias_restantes{}
+
+
+.principal{
+    width: 50%;
+    text-align: center;
+    background-color: aliceblue;
+}
